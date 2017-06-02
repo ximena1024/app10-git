@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>blur</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/convex/</ImageTemplate>
+            <ImageTemplateName>Convex</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#54ACD2</TemplateColor>
+            <TemplateFont>Gurajada</TemplateFont>
+            <TemplateName>convex</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/XGC/DAM/Tercer Parcial/aplicaciones/app10/imagenes/buap.png</url>
+                <filesize>166475</filesize>
+            </Image>
+            <Image>
+                <url>J:/XGC/DAM/Tercer Parcial/aplicaciones/app10/imagenes/buap1.jpg</url>
+                <filesize>10708</filesize>
+            </Image>
+            <Image>
+                <url>J:/XGC/DAM/Tercer Parcial/aplicaciones/app10/imagenes/buap3.jpg</url>
+                <filesize>47944</filesize>
+            </Image>
+            <Image>
+                <url>J:/XGC/DAM/Tercer Parcial/aplicaciones/app10/imagenes/buap4.jpg</url>
+                <filesize>135160</filesize>
+            </Image>
+            <Image>
+                <url>J:/XGC/DAM/Tercer Parcial/aplicaciones/app10/imagenes/uvm.png</url>
+                <filesize>6440</filesize>
+            </Image>
+            <Image>
+                <url>J:/XGC/DAM/Tercer Parcial/aplicaciones/app10/imagenes/uvm1.jpg</url>
+                <filesize>519014</filesize>
+            </Image>
+            <Image>
+                <url>J:/XGC/DAM/Tercer Parcial/aplicaciones/app10/imagenes/uvm3.jpg</url>
+                <filesize>118750</filesize>
+            </Image>
+            <Image>
+                <url>J:/XGC/DAM/Tercer Parcial/aplicaciones/app10/imagenes/uvm4.jpg</url>
+                <filesize>572851</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
